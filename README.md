@@ -1,2 +1,7 @@
-# dlgkjhljgfhfhr
-txt
+api.ipify.org
+checkip.amazonaws.com
+ifconfig.me
+ip.mail.ru
+ipv4-internet.yandex.net
+ipv6-internet.yandex.net
+
